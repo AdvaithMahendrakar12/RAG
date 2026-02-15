@@ -16,3 +16,7 @@ unstructured[docx]
 pandas
 jq
 sqlite3
+matplotlib
+
+#Embeddings
+langchain-huggingface
