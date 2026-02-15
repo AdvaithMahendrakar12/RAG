@@ -1,0 +1,1 @@
+This is a sample text file. It contains multiple sentences. The purpose of this file is to demonstrate text splitting using LangChain's text splitters. We will use different types of text splitters to see how they work.
