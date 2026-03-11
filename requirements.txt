@@ -15,7 +15,6 @@ docx2txt
 unstructured[docx]
 pandas
 jq
-sqlite3
 matplotlib
 
 #Embeddings
